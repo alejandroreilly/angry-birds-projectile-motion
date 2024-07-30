@@ -9,6 +9,7 @@ The program prompts for the initial height of the cliff (in meters), degree of l
 The program then demonstrates the motion of the bird in real-time, as well as displaying various measurements of the travel.
 
 <b>Measurements Recorded at the Bottom of the Screen:</b>
+
 -<i>Time Taken</i>
 -<i>Maximum Height</i>
 -<i>Horizontal Distance Traveled</i>
