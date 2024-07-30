@@ -10,9 +10,9 @@ The program then demonstrates the motion of the bird in real-time, as well as di
 
 <b>Measurements Recorded at the Bottom of the Screen:</b>
 
--<i>Time Taken</i>
--<i>Maximum Height</i>
--<i>Horizontal Distance Traveled</i>
+- <i>Time Taken</i>
+- <i>Maximum Height</i>
+- <i>Horizontal Distance Traveled</i>
 
 ## In-Action
 ![BirdFlying](./images/birdLaunch.png)
